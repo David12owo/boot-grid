@@ -1,0 +1,10 @@
+.hero-header {
+  background: linear-gradient(rgba(15, 15, 15, 0.5), rgba(15, 15, 15, 0.5)),
+    url(img2.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+img {
+  max-width: 100%;
+}
